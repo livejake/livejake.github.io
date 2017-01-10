@@ -1,5 +1,5 @@
 # my_user_name.github.io
- Copyright @ My Name
+ Copyright @ Jake Bialer
 ## Description
-This will be the main portfolio page for the My Name. I am
+This will be the main portfolio page for Jake Bialer. I am
 currently located in New York City.
